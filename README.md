@@ -24,13 +24,13 @@ https://github.com/microfisher/EOS-DAPP-BuyName/blob/master/website.jpg)
 * 你获得分红=（单价5.7-客户返利假设为0-ram成本0.29）*25%默认比例=1.35eos
 * 分红由智能合约自动转入你的收款账号
 
-推荐方法一：
+* `推荐方法一：
 推荐链接注册：“.e超短账号注册 http://eos58.io/eostothemoon/你的推荐码”
-复制保存以上内容与推荐链接，以随时发送给您的朋友注册。
+复制保存以上内容与推荐链接，以随时发送给您的朋友注册。`
 
-推荐方法二：
+* `推荐方法二：
 推荐转账注册：让您的朋友向账号e转账，并在备注内填写：要注册的账号+公钥+6位推荐码
-例如：12345.e+EOS5sCkZ18dWaWVjL2YTn2kLZnNEpGuMsteGMaUJLpKL1BMCuH19H+112233
+例如：12345.e+EOS5sCkZ18dWaWVjL2YTn2kLZnNEpGuMsteGMaUJLpKL1BMCuH19H+112233`
 
 
 #### 客户返利
