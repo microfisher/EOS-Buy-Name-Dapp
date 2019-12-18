@@ -8,10 +8,6 @@ https://github.com/microfisher/EOS-DAPP-BuyName/blob/master/website.jpg)
 
 开发语言：C++
 
-合约账号：e
-
-合约地址：https://eospark.com/contract/e
-
 ## 游戏规则
 
 #### 销售短号
